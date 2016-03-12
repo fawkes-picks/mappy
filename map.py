@@ -1,5 +1,10 @@
 #!/usr/bin/env python
 
+#created by Caleb Meeson
+#follow me on instagram: @fawkespickshop
+#check out the website I admin: http://ninjacache.com
+#Updated on March 3, 2016
+
 import os
 import urllib2
 import json
