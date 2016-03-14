@@ -93,13 +93,13 @@ while ans:
                           
             elif ans=="M":
                     os.system('cls' if os.name == 'nt' else 'clear')
-                    os.system('sudo python map1-1.py')
+                    os.system('sudo python map.py')
                    
             else:
                     print
                     print("Not Valid Choice Try again")
                     print
-                    os.system("sudo python map1-1.py")
+                    os.system("sudo python map.py")
                     ans = None
                     
                     
@@ -157,7 +157,7 @@ while ans:
 
             if ans=="M":
                 os.system('cls' if os.name == 'nt' else 'clear')
-                os.system('sudo python map1-1.py')
+                os.system('sudo python map.py')
                 
             
 
@@ -165,5 +165,5 @@ while ans:
         print
         print("Not Valid Choice Try again")
         print
-        os.system("sudo python map1-1.py")
+        os.system("sudo python map.py")
             
